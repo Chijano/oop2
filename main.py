@@ -1,4 +1,5 @@
-from Functions import find_primes, find_primes2, generate_financial_statement, generate_tax_statement, generate_securities_statement
+from Functions import (find_primes, find_primes2, generate_financial_statement, generate_tax_statement,
+                       generate_securities_statement)
 
 
 # Task 1
